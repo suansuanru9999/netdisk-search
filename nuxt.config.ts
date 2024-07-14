@@ -30,11 +30,6 @@ export default defineNuxtConfig({
                     async: true
                 },
                 {
-                    src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2357456649576737',
-                    async: true,
-                    crossorigin: 'anonymous'
-                },
-                {
                     src: '/ga.js'
                 },
                 {
@@ -44,7 +39,7 @@ export default defineNuxtConfig({
                     src: 'https://challenges.cloudflare.com/turnstile/v0/api.js'
                 },
                 {
-                    src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8210373406341452',
+                    src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2357456649576737',
                     async: true,
                     crossorigin: 'anonymous'
                 }
