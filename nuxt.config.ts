@@ -30,6 +30,11 @@ export default defineNuxtConfig({
                     async: true
                 },
                 {
+                    src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2357456649576737',
+                    async: true,
+                    crossorigin: 'anonymous'
+                },
+                {
                     src: '/ga.js'
                 },
                 {
