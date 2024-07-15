@@ -101,7 +101,7 @@ onMounted(async () => {
 
     <div class="p-4">
       <div class="flex flex-row items-center justify-center  gap-3 my-3">
-        <a class="" href="https://github.com/unilei/aipan-netdisk-search">
+        <a class="" href="https://good.suansuanru.fun">
           <img class="w-[30px] h-[30px]" src="@/assets/skill-icons--github-dark.svg" alt="github">
         </a>
       </div>
