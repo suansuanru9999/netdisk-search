@@ -104,9 +104,9 @@ onMounted(async () => {
         <a class="" href="https://github.com/unilei/aipan-netdisk-search">
           <img class="w-[30px] h-[30px]" src="@/assets/skill-icons--github-dark.svg" alt="github">
         </a>
-        <el-button link color="#ffffff" @click="donate()">
-          <img class="w-[30px] h-[30px]" src="@/assets/donation/dashang.svg" alt="打赏">
-        </el-button>
+        ##<el-button link color="#ffffff" @click="donate()">
+          ##<img class="w-[30px] h-[30px]" src="@/assets/donation/dashang.svg" alt="打赏">
+        ##</el-button>
       </div>
       <p class="text-center text-[8px] sm:text-[12px] text-slate-400">
         声明：本站不产生/存储任何数据，也从未参与录制、上传，所有资源均来自网络。
