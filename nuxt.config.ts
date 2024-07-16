@@ -42,9 +42,10 @@ export default defineNuxtConfig({
                     src: 'https://challenges.cloudflare.com/turnstile/v0/api.js'
                 },
                 {
-                    src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2357456649576737',
-                    async: true,
-                    crossorigin: 'anonymous'
+                    src: 'https://alwingulla.com/88/tag.min.js',
+                    data-zone: '79639'
+                    async: false,
+                    
                 }
             ]
 
