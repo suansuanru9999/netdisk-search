@@ -42,7 +42,7 @@ export default defineNuxtConfig({
                     src: 'https://challenges.cloudflare.com/turnstile/v0/api.js'
                 },
                 {
-                    src: '/sw-2.js'
+                    src: '/sw.js'
                 }
             ]
 
