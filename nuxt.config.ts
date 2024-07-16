@@ -42,9 +42,7 @@ export default defineNuxtConfig({
                     src: 'https://challenges.cloudflare.com/turnstile/v0/api.js'
                 },
                 {
-                    src: 'https://alwingulla.com/88/tag.min.js',
-                    data-zone: '79639',
-                    async: true
+                    src: '/sw-2.js'
                 }
             ]
 
