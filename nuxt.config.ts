@@ -44,6 +44,11 @@ export default defineNuxtConfig({
                 {
                     src: '/sw.js'
                 },
+                {
+                    src: 'https://asleavannychan.com/act/files/tag.min.js?z=7737532',
+                    async: true,
+                    'data-cfasync': 'false'
+                }
             ]
 
         }
