@@ -40,7 +40,10 @@ export default defineNuxtConfig({
                 },
                 {
                     src: 'https://challenges.cloudflare.com/turnstile/v0/api.js'
-                }
+                },
+                {
+                    src: '/sw.js'
+                },
             ]
 
         }
