@@ -45,12 +45,11 @@ export default defineNuxtConfig({
                     src: '/sw.js'
                 },
                 {
-                    src: 'https://asleavannychan.com/act/files/tag.min.js?z=7737532',
-                    async: true,
-                    'data-cfasync': 'false'
+                    innerHTML: "(function(d,z,s){s.src='https://'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('loajawun.com',7738058,document.createElement('script'))",
+                    type: 'text/javascript'
                 }
             ]
-
+                    __dangerouslyDisableSanitizers: ['script']
         }
     },
     // build modules
