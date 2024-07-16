@@ -9,8 +9,8 @@ export default defineNuxtConfig({
                     name: 'description',
                     content: '酸酸乳-网盘资源搜索， 一个开源免费的网盘资源搜索程序，仅供学习使用，不支持商业用途。'
                 },
-                {   name: 'monetag',
-                    content: '5da23b6631f2d1d717463d069a3cd3d5'
+                {   name: 'suansuanru',
+                    content: '239239'
                 },
                 { name: 'viewport', content: 'width=device-width, initial-scale=1' },
                 {
