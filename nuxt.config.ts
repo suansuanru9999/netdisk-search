@@ -64,8 +64,15 @@ export default defineNuxtConfig({
         '@nuxtjs/color-mode',
         '@pinia/nuxt',
         '@pinia-plugin-persistedstate/nuxt',
+        '@nuxtjs/robots',
 
     ],
+    robots: {
+        UserAgent: '*',
+        Disallow: '/admin',
+        Allow: '/',
+        Sitemap: 'https://suansuanru.fun/sitemap.xml'
+    },
     colorMode: {
         preference: 'light',
         classSuffix: ''
