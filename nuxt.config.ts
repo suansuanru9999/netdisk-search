@@ -70,8 +70,7 @@ export default defineNuxtConfig({
     robots: {
         UserAgent: '*',
         Disallow: '/admin',
-        Allow: '/',
-        Sitemap: 'https://suansuanru.fun/sitemap.xml'
+        Allow: '/'
     },
     colorMode: {
         preference: 'light',
