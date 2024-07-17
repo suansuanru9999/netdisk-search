@@ -7,7 +7,10 @@ export default defineNuxtConfig({
             meta: [
                 {
                     name: 'description',
-                    content: '酸酸乳-网盘资源搜索， 一个开源免费的网盘资源搜索程序，仅供学习使用，不支持商业用途。'
+                    content: '酸酸乳网盘资源搜索，电影迅雷下载、百度云盘、阿里网盘、夸克网盘、迅雷资源网站，免费提供电影、韩剧、美剧、日剧资源，你想看的影视大片，这里都有'
+                },
+                {   name: 'keyword',
+                    content: '酸酸乳,百度云盘,阿里网盘,夸克网盘,迅雷,下载'
                 },
                 {   name: 'suansuanru',
                     content: '239239'
