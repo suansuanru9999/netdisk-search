@@ -1,0 +1,6 @@
+robots: {
+  UserAgent: '*',
+  Disallow: '/admin',
+  Allow: '/',
+  Sitemap: 'https://yourwebsite.com/sitemap.xml'
+}
