@@ -60,8 +60,12 @@ onMounted(async () => {
       <h1 class="text-[18px] sm:text-[22px] font-serif font-bold dark:text-white ">酸酸乳-网盘资源搜索</h1>
     </div>
     <div class="flex justify-center mt-2">
-      <a1 href="https://good.suansuanru.fun" class="text-blue-600 dark:text-blue-400 underline mx-2">酸酸乳入口1</a1>
-      <a2 href="https://nb.suansuanru.fun" class="text-blue-600 dark:text-blue-400 underline mx-2">酸酸乳入口2</a2>
+      <a href="https://good.suansuanru.fun" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 underline mx-2">
+  酸酸乳入口1
+      </a>
+      <a href="https://nb.suansuanru.fun" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 underline mx-2">
+  酸酸乳入口2
+      </a>
     </div>
 
     <div class="max-w-[1240px] mx-auto mt-[20px]">
