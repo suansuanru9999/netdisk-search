@@ -59,10 +59,7 @@ onMounted(async () => {
       <img class="w-[40px] h-[40px] sm:w-[60px] sm:h-[60px]" src="@/assets/my-logo.png" alt="logo">
       <h1 class="text-[18px] sm:text-[22px] font-serif font-bold dark:text-white ">酸酸乳-网盘资源搜索</h1>
     </div>
-    <div class="link-container">
-      <a href="https://www.example1.com" target="_blank" class="link-button">链接1</a>
-      <a href="https://www.example2.com" target="_blank" class="link-button">链接2</a>
-    </div>
+  
 
     <div class="max-w-[1240px] mx-auto mt-[20px]">
       <div
